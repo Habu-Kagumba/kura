@@ -1,7 +1,7 @@
 {
   "name": "kura",
   "version": "1.0.0",
-  "description": "Implat voting application - Learning Redux!",
+  "description": "Simple voting application - Learning Redux!",
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",
